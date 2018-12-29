@@ -1,8 +1,9 @@
-# 《学习GraphQL：现代Web应用中的声明式数据获取》
-原名：《Learning GraphQL: Declarative Data Fetching for Modern Web Apps》  
-作者：Eve Porcello and Alex Banks  
-译名：《学习GraphQL：现代Web应用中的声明式数据获取》  
-译者：[cg-zhou](http://www.cg-zhou.top)
+# 学习GraphQL：现代Web应用中的声明式数据获取
+
+* 原名：《Learning GraphQL: Declarative Data Fetching for Modern Web Apps》  
+* 作者：Eve Porcello and Alex Banks  
+* 译名：《学习GraphQL：现代Web应用中的声明式数据获取》  
+* 译者：[cg-zhou](http://www.cg-zhou.top)
 
 ### 声明
 仅供个人学习研究和交流使用，严禁用于商业目的与公开传播发行。
