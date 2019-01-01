@@ -13,7 +13,7 @@
 
 ### 目录
 * Preface
-* 1.Welcome to GraphQL - locked by Arroheily
+* 1.[Welcome to GraphQL](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch01.md) - locked by [Arroheily](https://github.com/Arroheily)
 * 2.Graph Theory
 * 3.The GraphQL Query Language
 * 4.Designing a Schema
@@ -22,7 +22,7 @@
 * 7.Graph in the Real World
 * Index - 索引
 * About the Authors - 关于作者
-* Colophon - 后记 - locked by cg-zhou
+* [后记](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Colophon.md) - locked by [cg-zhou](https://github.com/cg-zhou)
 
 ### 声明
 仅供个人学习研究和交流使用，严禁用于商业目的与公开传播发行。
