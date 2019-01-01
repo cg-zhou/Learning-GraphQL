@@ -5,6 +5,25 @@
 * 译名：《GraphQL开发指南》  
 * 译者：[cg-zhou](http://www.cg-zhou.top)
 
+### 翻译流程
+* 翻译前，每个人可以申请lock一章
+* lock信息会出现在本页
+* 如果连续两周，这个人提交翻译内容少于一页，该lock自动解除
+* 每个人在同一时刻，最多lock一章
+
+### 目录
+* Preface
+* 1.Welcome to GraphQL - locked by Arroheily
+* 2.Graph Theory
+* 3.The GraphQL Query Language
+* 4.Designing a Schema
+* 5.Creating a GraphQL API
+* 6.GraphQL Clients
+* 7.Graph in the Real World
+* Index - 索引
+* About the Authors - 关于作者
+* Colophon - 后记 - locked by cg-zhou
+
 ### 声明
 仅供个人学习研究和交流使用，严禁用于商业目的与公开传播发行。
 
