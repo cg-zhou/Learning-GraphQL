@@ -5,4 +5,4 @@
   
 O'Reilly 封面上的很多动物都濒临灭绝，这些动物对世界非常重要。了解提供帮助相关的更多信息，请访问 [animals.oreilly.com](http://animals.oreilly.com/)。  
   
-封面图片来自 Brehms Tierleben 。封面字体是 URW Typewriter和Guardian Sans 。文本字体是 Adobe Minion Pro 。标题字体是 Adobe Myriad Condensed 。代码字体是 Dalton Maag 的 Ubuntu Mono 。
+封面图片来自 Brehms Tierleben。封面字体是 URW Typewriter 和 Guardian Sans。文本字体是 Adobe Minion Pro。标题字体是 Adobe Myriad Condensed。代码字体是 Dalton Maag 的 Ubuntu Mono。
