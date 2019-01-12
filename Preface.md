@@ -4,7 +4,7 @@
   
 在整个过程中，我们很幸运地收到了来自 Apollo 团队的 Peggy Rayzis 和 Sashko Stubailo 的反馈，他们分享了自己的见解，并提供了有关最新特性的最新信息。同样感谢 Adam Rackis，Garrett McCullough 和 Shivi Singh，他们是出色的技术编辑。  
   
-因为喜欢 GraphQL，我们写下这本书，希望你也一样喜欢 GraphQL。  
+因为热爱 GraphQL，我们写下这本书，希望你也一样热爱。  
 ### 本书中的约定
 TODO:
 ### 使用代码示例
