@@ -2,7 +2,7 @@
 
 * 原名：[《Learning GraphQL》](http://shop.oreilly.com/product/0636920137269.do)  
 * 作者：[Eve Porcello](https://www.oreilly.com/pub/au/6914) and [Alex Banks](https://www.oreilly.com/pub/au/6913)  
-* 译名：《GraphQL开发指南》  
+* 译名：[《GraphQL开发指南》](https://book.douban.com/subject/30301515/)  
 * 译者：[cg-zhou](http://www.cg-zhou.top)
 
 ### 翻译流程
@@ -12,7 +12,7 @@
 * 每个人在同一时刻，最多lock一章
 
 ### 目录
-* Preface
+* [前言](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Preface.md) - locked by [cg-zhou](https://github.com/cg-zhou)
 * 1.[Welcome to GraphQL](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch01.md) - locked by [Arroheily](https://github.com/Arroheily)
 * 2.Graph Theory
 * 3.The GraphQL Query Language
@@ -21,8 +21,8 @@
 * 6.GraphQL Clients
 * 7.Graph in the Real World
 * Index - 索引
-* About the Authors - 关于作者
-* [后记](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Colophon.md) - locked by [cg-zhou](https://github.com/cg-zhou)
+* [关于作者](https://github.com/cg-zhou/Learning-GraphQL/blob/master/AboutTheAuthors.md)
+* [后记](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Colophon.md)
 
 ### 声明
 仅供个人学习研究和交流使用，严禁用于商业目的与公开传播发行。
