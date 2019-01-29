@@ -6,14 +6,14 @@
 * 译者：[cg-zhou](http://www.cg-zhou.top)
 
 ### 翻译流程
-* 翻译前，每个人可以申请lock一章
-* lock信息会出现在本页
+* 提交某章的某页翻译后，提交人可以申请lock这一章
+* lock信息会出现在本页（ - locked by xxx）
 * 如果连续两周，这个人提交翻译内容少于一页，该lock自动解除
 * 每个人在同一时刻，最多lock一章
 
 ### 目录
-* [前言](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Preface.md) - locked by [cg-zhou](https://github.com/cg-zhou)
-* 1.[Welcome to GraphQL](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch01.md) - locked by [Arroheily](https://github.com/Arroheily)
+* [前言](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Preface.md)
+* 1.[Welcome to GraphQL](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch01.md)
 * 2.Graph Theory
 * 3.The GraphQL Query Language
 * 4.Designing a Schema
