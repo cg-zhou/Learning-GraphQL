@@ -12,8 +12,8 @@
 * 每个人在同一时刻，最多lock一章
 
 ### 目录
-* [前言](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Preface.md)
-* 1.[Welcome to GraphQL](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch01.md)
+* [前言](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Preface.md) - locked by [cgzhou](https://github.com/cg-zhou)
+* 1.[Welcome to GraphQL](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch01.md) - locked by [Arroheily](https://github.com/Arroheily)
 * 2.Graph Theory
 * 3.The GraphQL Query Language
 * 4.Designing a Schema
