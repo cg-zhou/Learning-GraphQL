@@ -54,6 +54,6 @@ WARNING
 我们为本书的勘误和附加信息提供了一个在线页面，你可以访问 [http://bit.ly/learning-graphql-orm](http://bit.ly/learning-graphql-orm) 。  
 评论本书或咨询相关技术问题可以发送邮件至 [bookquestions@oreilly.com](bookquestions@oreilly.com)。  
 关于我们的更多书籍、课程、会议和新闻的相关信息，可以访问我们的网站 [http://www.oreilly.com](http://www.oreilly.com)。  
-Facebook: [http://facebook.com/oreilly](http://facebook.com/oreilly)  
-Twitter: [http://twitter.com/oreillymedia](http://twitter.com/oreillymedia)  
-YouTube: [http://www.youtube.com/oreillymedia](http://www.youtube.com/oreillymedia)  
+- Facebook: [http://facebook.com/oreilly](http://facebook.com/oreilly)  
+- Twitter: [http://twitter.com/oreillymedia](http://twitter.com/oreillymedia)  
+- YouTube: [http://www.youtube.com/oreillymedia](http://www.youtube.com/oreillymedia)  
