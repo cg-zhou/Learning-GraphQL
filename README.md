@@ -12,17 +12,17 @@
 * 每个人在同一时刻，最多lock一章
 
 ### 目录
-* [前言](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Preface.md) - locked by [cgzhou](https://github.com/cg-zhou)
-* 1.[Welcome to GraphQL](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch01.md) - locked by [Arroheily](https://github.com/Arroheily)
-* 2.Graph Theory
-* 3.The GraphQL Query Language
-* 4.Designing a Schema
-* 5.Creating a GraphQL API
-* 6.GraphQL Clients
-* 7.Graph in the Real World
-* Index - 索引
-* [关于作者](https://github.com/cg-zhou/Learning-GraphQL/blob/master/AboutTheAuthors.md)
-* [后记](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Colophon.md)
+- [x] [前言](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Preface.md)
+- [ ] 1.[Welcome to GraphQL](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch01.md) - locked by [Arroheily](https://github.com/Arroheily)
+- [ ] 2.[图论](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch02.md) - locked by [cgzhou](https://github.com/cg-zhou)
+- [ ] 3.The GraphQL Query Language
+- [ ] 4.Designing a Schema
+- [ ] 5.Creating a GraphQL API
+- [ ] 6.GraphQL Clients
+- [ ] 7.Graph in the Real World
+- [ ] Index - 索引
+- [x] [关于作者](https://github.com/cg-zhou/Learning-GraphQL/blob/master/AboutTheAuthors.md)
+- [x] [后记](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Colophon.md)
 
 ### 声明
 仅供个人学习研究和交流使用，严禁用于商业目的与公开传播发行。
