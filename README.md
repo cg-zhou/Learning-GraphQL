@@ -14,7 +14,7 @@
 ### 目录
 - [x] [前言(6-11)](https://github.com/cg-zhou/Learning-GraphQL/blob/master/Preface.md)
 - [ ] 1.[Welcome to GraphQL(12-12/33)](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch01.md) - locked by [Arroheily](https://github.com/Arroheily)
-- [ ] 2.[图论(34-35/58)](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch02.md) - locked by [cgzhou](https://github.com/cg-zhou)
+- [ ] 2.[图论(34-38/58)](https://github.com/cg-zhou/Learning-GraphQL/blob/master/ch02.md) - locked by [cgzhou](https://github.com/cg-zhou)
 - [ ] 3.The GraphQL Query Language
 - [ ] 4.Designing a Schema
 - [ ] 5.Creating a GraphQL API
