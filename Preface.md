@@ -19,14 +19,14 @@
 *等宽斜体*
 - 表示应被用户提供的一些值或上下文中的一些值替换的文本。
 
-TIP
-- 这类元素表示提示或建议。
+> _**TIP**_  
+> 这类元素表示提示或建议。
 
-NOTE
-- 这类元素表示一般说明。
+> _**NOTE**_  
+> 这类元素表示一般说明。
 
-WARNING
-- 这类元素表示警告或注意事项。
+> _**WARNING**_  
+> 这类元素表示警告或注意事项。
 
 ### 使用代码示例
 一些补充材料(代码实例，练习等)，可以从[https://github.com/moonhighway/learning-graphql/](https://github.com/moonhighway/learning-graphql/)下载。  
