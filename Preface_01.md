@@ -6,4 +6,5 @@
   
 因为热爱 GraphQL，我们写下这本书，希望你也一样热爱。  
 
-:point_right: **下一节 [联系我们](/Preface_01.md)**
+| [下一节](/Preface_02.md) :point_right: |
+| - |
