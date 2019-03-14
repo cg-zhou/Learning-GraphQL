@@ -19,9 +19,9 @@
   - [x] [O’Reilly Safari](/Preface_04.md)
   - [x] [联系我们](/Preface_05.md)
 - [ ] 1.[Welcome to GraphQL(12-12/33)](/ch01_00.md) - locked by [Arroheily](https://github.com/Arroheily)
-- [ ] 2.[图论(34-45/58)](/ch02_00.md) - locked by [cgzhou](https://github.com/cg-zhou)
+- [ ] 2.[图论(34-48/58)](/ch02_00.md) - locked by [cgzhou](https://github.com/cg-zhou)
   - [x] [图论词汇](/ch02_01.md)
-  - [ ] [图论历史](/ch02_02.md)
+  - [x] [图论历史](/ch02_02.md)
   - [ ] [树即是图](/ch02_03.md)
   - [ ] [现实世界中的图](/ch02_04.md)
 - [ ] 3.The GraphQL Query Language
