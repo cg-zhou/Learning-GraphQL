@@ -19,7 +19,7 @@
   - [x] [O’Reilly Safari](/Preface_04.md)
   - [x] [联系我们](/Preface_05.md)
 - [ ] 1.[Welcome to GraphQL(12-12/33)](/ch01_00.md) - locked by [Arroheily](https://github.com/Arroheily)
-- [x] 2.[图论(34-53/58)](/ch02_00.md)
+- [x] 2.[图论(34-58)](/ch02_00.md)
   - [x] [图论词汇](/ch02_01.md)
   - [x] [图论历史](/ch02_02.md)
   - [x] [树即是图](/ch02_03.md)
@@ -44,5 +44,7 @@
 > （六）为学校课堂教学或者科学研究，翻译或者少量复制已经发表的作品，供教学或者科研人员使用，但不得出版发行；
 
 ### LICENSE
+CC-BY 4.0
+
+### One More Thing
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
