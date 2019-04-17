@@ -24,7 +24,7 @@
   - [x] [图论历史](/ch02_02.md)
   - [x] [树即是图](/ch02_03.md)
   - [x] [现实世界中的图](/ch02_04.md)
-- [ ] 3.[GraphQL查询语言(58-60)](/ch03_00.md) - locked by [cg-zhou](https://github.com/cg-zhou)
+- [ ] 3.[GraphQL查询语言(58-59/60)](/ch03_00.md) - locked by [cg-zhou](https://github.com/cg-zhou)
   - [ ] [GraphQL API工具(61-69)](/ch03_01.md)
   - [ ] [GraphQL查询(70-93)](/ch03_02.md)
   - [ ] [Mutations(94-96)](/ch03_03.md)
