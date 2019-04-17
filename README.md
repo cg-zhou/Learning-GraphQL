@@ -19,12 +19,18 @@
   - [x] [O’Reilly Safari](/Preface_04.md)
   - [x] [联系我们](/Preface_05.md)
 - [ ] 1.[Welcome to GraphQL(12-12/33)](/ch01_00.md) - locked by [Arroheily](https://github.com/Arroheily)
-- [x] 2.[图论(34-58)](/ch02_00.md)
+- [x] 2.[图论(34-57)](/ch02_00.md)
   - [x] [图论词汇](/ch02_01.md)
   - [x] [图论历史](/ch02_02.md)
   - [x] [树即是图](/ch02_03.md)
   - [x] [现实世界中的图](/ch02_04.md)
-- [ ] 3.The GraphQL Query Language
+- [ ] 3.[GraphQL查询语言(58-60)](/ch03_00.md) - locked by [cg-zhou](https://github.com/cg-zhou)
+  - [ ] [GraphQL API工具(61-69)](/ch03_01.md)
+  - [ ] [GraphQL查询(70-93)](/ch03_02.md)
+  - [ ] [Mutations(94-96)](/ch03_03.md)
+  - [ ] [Introspection(97-98)](/ch03_04.md)
+  - [ ] [Subscriptions(99-102)](/ch03_05.md)
+  - [ ] [抽象语法树(103-104)](/ch03_06.md)
 - [ ] 4.Designing a Schema
 - [ ] 5.Creating a GraphQL API
 - [ ] 6.GraphQL Clients
