@@ -5,12 +5,6 @@
 * 译名：[《GraphQL开发指南》](https://book.douban.com/subject/30301515/)  
 * 译者：[cg-zhou](http://www.cg-zhou.top)
 
-### 翻译流程
-* 提交某章的某页翻译后，提交人可以申请lock这一章
-* lock信息会出现在本页（ - locked by xxx）
-* 如果连续两周，这个人提交翻译内容少于一页，该lock自动解除
-* 每个人在同一时刻，最多lock一章
-
 ### 目录
 - [x] [前言(6-11)](/Preface_01.md)
   - [x] [鸣谢](/Preface_01.md)
@@ -31,7 +25,7 @@
   - [x] [现实世界中的图](/ch02_04.md)
 - [x] 3.[GraphQL查询语言(58-60)](/ch03_00.md)
   - [x] [GraphQL API工具(61-69)](/ch03_01.md)
-  - [ ] [GraphQL查询(70-74/93)](/ch03_02.md) - locked by [cg-zhou](https://github.com/cg-zhou)
+  - [ ] [GraphQL查询(70-74/93)](/ch03_02.md)
   - [ ] [Mutations(94-96)](/ch03_03.md)
   - [ ] [Introspection(97-98)](/ch03_04.md)
   - [ ] [Subscriptions(99-102)](/ch03_05.md)
