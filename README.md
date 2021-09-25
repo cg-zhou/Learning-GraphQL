@@ -25,10 +25,10 @@
   - [x] [现实世界中的图](/ch02_04.md)
 - [x] 3.[GraphQL查询语言(58-60)](/ch03_00.md)
   - [x] [GraphQL API工具(61-69)](/ch03_01.md)
-  - [ ] [GraphQL查询(70-74/93)](/ch03_02.md)
+  - [x] [GraphQL查询(70-74/93)](/ch03_02.md)
   - [ ] [Mutations(94-96)](/ch03_03.md)
-  - [ ] [Introspection(97-98)](/ch03_04.md)
-  - [ ] [Subscriptions(99-102)](/ch03_05.md)
+  - [ ] [Subscriptions(97-98)](/ch03_04.md)
+  - [ ] [Introspection(99-102)](/ch03_05.md)
   - [ ] [抽象语法树(103-104)](/ch03_06.md)
 - [ ] 4.Designing a Schema
 - [ ] 5.Creating a GraphQL API
