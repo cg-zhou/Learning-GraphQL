@@ -1,0 +1,20 @@
+query jazzCatStatus {
+  Lift(id: "jazz-cat") {
+    name
+    night
+    elevationGain
+    trailAccess {
+      name
+      difficulty
+    }
+  }
+}
+mutation closeLift($lift: ID!) {
+  setLiftStatus(id: $lift, status: CLOSED) {
+    ...liftStatus
+  }
+}
+fragment liftStatus on Lift {
+  name
+  status
+}
