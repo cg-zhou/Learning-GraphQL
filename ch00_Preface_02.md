@@ -21,5 +21,5 @@
 > _**WARNING**_  
 > 这类元素表示警告或注意事项。
 
-| :point_left: [上一节](/Preface_01.md) | [下一节](/Preface_03.md) :point_right: |
+| :point_left: [上一节](/ch00_Preface_01.md) | [下一节](/ch00_Preface_03.md) :point_right: |
 | - | - |

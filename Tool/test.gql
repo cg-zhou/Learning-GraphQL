@@ -1,20 +1,18 @@
-query jazzCatStatus {
-  Lift(id: "jazz-cat") {
-    name
-    night
-    elevationGain
-    trailAccess {
-      name
-      difficulty
-    }
-  }
-}
-mutation closeLift($lift: ID!) {
-  setLiftStatus(id: $lift, status: CLOSED) {
-    ...liftStatus
-  }
-}
-fragment liftStatus on Lift {
-  name
-  status
+type Person {
+  id: ID!
+  name: String
+  birthYear: String
+  eyeColor: String
+  gender: String
+  hairColor: String
+  height: Int
+  mass: Float
+  skinColor: String
+  homeworld: Planet
+  species: Species
+  filmConnection: PersonFilmsConnection
+  starshipConnection: PersonStarshipConnection
+  vehicleConnection: PersonVehiclesConnection
+  created: String
+  edited: String
 }
