@@ -1,18 +1,15 @@
-type Person {
-  id: ID!
-  name: String
-  birthYear: String
-  eyeColor: String
-  gender: String
-  hairColor: String
-  height: Int
-  mass: Float
-  skinColor: String
-  homeworld: Planet
-  species: Species
-  filmConnection: PersonFilmsConnection
-  starshipConnection: PersonStarshipConnection
-  vehicleConnection: PersonVehiclesConnection
-  created: String
-  edited: String
+"""
+The inputs sent with the postPhoto Mutation
+"""
+input PostPhotoInput {
+  "The name of the new photo"
+  name: String!
+  "(optional) A brief description of the photo"
+  description: String
+  "(optional) The category that defines the photo"
+  category: PhotoCategory=PORTRAIT
 }
+postPhoto(
+  "input: The name, description, and category for a new photo"
+  input: PostPhotoInput!
+): Photo!
