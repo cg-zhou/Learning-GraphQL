@@ -1,13 +1,27 @@
 {
-  "filter": {
-    "category": "ACTION",
-    "taggedUsers": ["MoonTahoe", "EvePorcello"],
-    "createdBetween": {
-      "start": "2018-11-6",
-      "end": "2018-5-31"
-    }
-  },
-  "page": {
-    "first": 100
+  "data": {
+    "allPhotos": [
+      {
+        "name": "Dropping the Heart Chute",
+        "url": "http://yoursite.com/img/1.jpg",
+        "postedBy": {
+          "name": "Glen Plake"
+        }
+      },
+      {
+        "name": "Enjoying the sunshine",
+        "url": "http://yoursite.com/img/2.jpg",
+        "postedBy": {
+          "name": "Scot Schmidt"
+        }
+      },
+      {
+        "name": "Gunbarrel 25",
+        "url": "http://yoursite.com/img/3.jpg",
+        "postedBy": {
+          "name": "Scot Schmidt"
+        }
+      }
+    ]
   }
 }
