@@ -1,9 +1,10 @@
-postPhoto(parent, args) {
-  var newPhoto = {
-    id: _id++,
-    ...args.input,
-    created: new Date()
+async fakeUserAuth (parent, { githubLogin }, { db }) {
+  var user = await db.collection('users').findOne({ githubLogin })
+  if (!user) {
+  throw new Error(`Cannot find user with githubLogin "${githubLogin}"`)
   }
-  photos.push(newPhoto)
-  return newPhoto
-}
+  return {
+  token: user.githubToken,
+  user
+  }
+  }

@@ -1,6 +1,10 @@
-query listPhotos {
-  allPhotos {
-    name
-    created
+mutation {
+  githubAuth(code: "XYZ") {
+    token
+    user {
+      githubLogin
+      name
+      avatar
+    }
   }
 }
