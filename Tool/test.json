@@ -1,27 +1,7 @@
 {
-  "data": {
-    "allPhotos": [
-      {
-        "name": "Dropping the Heart Chute",
-        "url": "http://yoursite.com/img/1.jpg",
-        "postedBy": {
-          "name": "Glen Plake"
-        }
-      },
-      {
-        "name": "Enjoying the sunshine",
-        "url": "http://yoursite.com/img/2.jpg",
-        "postedBy": {
-          "name": "Scot Schmidt"
-        }
-      },
-      {
-        "name": "Gunbarrel 25",
-        "url": "http://yoursite.com/img/3.jpg",
-        "postedBy": {
-          "name": "Scot Schmidt"
-        }
-      }
-    ]
-  }
+  "allUsers": [
+    { "name": "sharon adams", "avatar": "http://..." },
+    { "name": "sarah ronau", "avatar": "http://..." },
+    { "name": "paul young", "avatar": "http://..." }
+  ]
 }
